@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmeml version="4">
+	<project>
+		<name>BossRootProject</name>
+		<children>
+			<clip id="masterclip-1">
+				<masterclipid>masterclip-1</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>854</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>854</out>
+				<name>shot0010_01</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-1">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>shot0010_01</name>
+								<enabled>TRUE</enabled>
+								<duration>854</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>854</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-1">
+									<name>shot0010_01.avi</name>
+									<pathurl>file://localhost/D%3a\BackUpBushido\ProyectoMGIII\ProyectoMotoresGIII\Saved\VideoCaptures/shot0010_01.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>854</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Cinematics/Sequences/Boss/BossRoot.BossRoot:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_0][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-2">
+				<masterclipid>masterclip-2</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>1556</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>1556</out>
+				<name>shot0020_01</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-2">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>shot0020_01</name>
+								<enabled>TRUE</enabled>
+								<duration>1556</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>1556</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-2">
+									<name>shot0020_01.avi</name>
+									<pathurl>file://localhost/D%3a\BackUpBushido\ProyectoMGIII\ProyectoMotoresGIII\Saved\VideoCaptures/shot0020_01.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>1556</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Cinematics/Sequences/Boss/BossRoot.BossRoot:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_3][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-3">
+				<masterclipid>masterclip-3</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>275</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>275</out>
+				<name>shot0020_02</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-3">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>shot0020_02</name>
+								<enabled>TRUE</enabled>
+								<duration>275</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>275</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-3">
+									<name>shot0020_02.avi</name>
+									<pathurl>file://localhost/D%3a\BackUpBushido\ProyectoMGIII\ProyectoMotoresGIII\Saved\VideoCaptures/shot0020_02.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>275</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Cinematics/Sequences/Boss/BossRoot.BossRoot:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_2][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-4">
+				<masterclipid>masterclip-4</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>348</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>348</out>
+				<name>shot0020_03</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-4">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>shot0020_03</name>
+								<enabled>TRUE</enabled>
+								<duration>348</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>348</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-4">
+									<name>shot0020_03.avi</name>
+									<pathurl>file://localhost/D%3a\BackUpBushido\ProyectoMGIII\ProyectoMotoresGIII\Saved\VideoCaptures/shot0020_03.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>348</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Cinematics/Sequences/Boss/BossRoot.BossRoot:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_1][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-5">
+				<masterclipid>masterclip-5</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>482</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>482</out>
+				<name>shot0020_04</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-5">
+								<masterclipid>masterclip-5</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>shot0020_04</name>
+								<enabled>TRUE</enabled>
+								<duration>482</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>482</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-5">
+									<name>shot0020_04.avi</name>
+									<pathurl>file://localhost/D%3a\BackUpBushido\ProyectoMGIII\ProyectoMotoresGIII\Saved\VideoCaptures/shot0020_04.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>482</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Cinematics/Sequences/Boss/BossRoot.BossRoot:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_5][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-6">
+				<masterclipid>masterclip-6</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>206</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>206</out>
+				<name>shot0020_05</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-6">
+								<masterclipid>masterclip-6</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>shot0020_05</name>
+								<enabled>TRUE</enabled>
+								<duration>206</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>206</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-6">
+									<name>shot0020_05.avi</name>
+									<pathurl>file://localhost/D%3a\BackUpBushido\ProyectoMGIII\ProyectoMotoresGIII\Saved\VideoCaptures/shot0020_05.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>206</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Cinematics/Sequences/Boss/BossRoot.BossRoot:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_10][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-7" explodedTracks="true">
+				<masterclipid>masterclip-7</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>23642</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>23642</out>
+				<name>Most_Epic_Dark_Powerful_Music__THE_MAD_KING__by__RokNardin</name>
+				<media>
+					<audio>
+						<track>
+							<clipitem id="clipitem-7">
+								<masterclipid>masterclip-7</masterclipid>
+								<name>Most_Epic_Dark_Powerful_Music__THE_MAD_KING__by__RokNardin</name>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-7">
+									<name>Most Epic Dark Powerful Music_ THE MAD KING by @RokNardin.mp3</name>
+									<pathurl>file://localhost/C%3a/Users/Roberto%20Barraza/Downloads/Most%20Epic%20Dark%20Powerful%20Music_%20THE%20MAD%20KING%20%20by%20@RokNardin.mp3</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<duration>23642</duration>
+									<media>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>1</sourcechannel>
+												<channellabel>left</channellabel>
+											</audiochannel>
+										</audio>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>2</sourcechannel>
+												<channellabel>right</channellabel>
+											</audiochannel>
+										</audio>
+									</media>
+								</file>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-7</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-8</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="clipitem-8">
+								<masterclipid>masterclip-7</masterclipid>
+								<name>Most_Epic_Dark_Powerful_Music__THE_MAD_KING__by__RokNardin</name>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-7" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-7</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-8</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+					</audio>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UESoundWave=/Game/Sounds/Música/Most_Epic_Dark_Powerful_Music__THE_MAD_KING__by__RokNardin.Most_Epic_Dark_Powerful_Music__THE_MAD_KING__by__RokNardin][UEAudioSectionTopLevel=/Game/Cinematics/Sequences/Boss/BossRoot][UEAudioSection=BossRoot:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_1]</lognote>
+				</logginginfo>
+			</clip>
+			<sequence id="sequence-1">
+				<duration>3762</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<name>BossRoot</name>
+				<media>
+					<video>
+						<format>
+							<samplecharacteristics>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<width>1920</width>
+								<height>1080</height>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+							</samplecharacteristics>
+						</format>
+						<track>
+							<clipitem id="clipitem-9">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>shot0010_01</name>
+								<enabled>TRUE</enabled>
+								<duration>854</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>854</end>
+								<in>0</in>
+								<out>854</out>
+								<file id="file-1" />
+							</clipitem>
+							<clipitem id="clipitem-10">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>shot0020_01</name>
+								<enabled>TRUE</enabled>
+								<duration>1556</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>854</start>
+								<end>2410</end>
+								<in>0</in>
+								<out>1556</out>
+								<file id="file-2" />
+							</clipitem>
+							<clipitem id="clipitem-11">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>shot0020_02</name>
+								<enabled>TRUE</enabled>
+								<duration>275</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>2410</start>
+								<end>2685</end>
+								<in>0</in>
+								<out>275</out>
+								<file id="file-3" />
+							</clipitem>
+							<clipitem id="clipitem-12">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>shot0020_03</name>
+								<enabled>TRUE</enabled>
+								<duration>348</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>2684</start>
+								<end>3032</end>
+								<in>0</in>
+								<out>348</out>
+								<file id="file-4" />
+							</clipitem>
+							<clipitem id="clipitem-13">
+								<masterclipid>masterclip-5</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>shot0020_04</name>
+								<enabled>TRUE</enabled>
+								<duration>482</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>3032</start>
+								<end>3514</end>
+								<in>0</in>
+								<out>482</out>
+								<file id="file-5" />
+							</clipitem>
+							<clipitem id="clipitem-14">
+								<masterclipid>masterclip-6</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>shot0020_05</name>
+								<enabled>TRUE</enabled>
+								<duration>206</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>3514</start>
+								<end>3720</end>
+								<in>0</in>
+								<out>206</out>
+								<file id="file-6" />
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+					</video>
+					<audio>
+						<numOutputChannels>2</numOutputChannels>
+						<format>
+							<samplecharacteristics>
+								<depth>16</depth>
+								<samplerate>44100</samplerate>
+							</samplecharacteristics>
+						</format>
+						<outputs>
+							<group>
+								<index>1</index>
+								<numchannels>1</numchannels>
+								<downmix>0</downmix>
+								<channel>
+									<index>1</index>
+								</channel>
+							</group>
+							<group>
+								<index>2</index>
+								<numchannels>1</numchannels>
+								<downmix>0</downmix>
+								<channel>
+									<index>2</index>
+								</channel>
+							</group>
+						</outputs>
+						<track currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+							<clipitem id="clipitem-15" premiereChannelType="stereo">
+								<masterclipid>masterclip-7</masterclipid>
+								<name>Most_Epic_Dark_Powerful_Music__THE_MAD_KING__by__RokNardin</name>
+								<enabled>TRUE</enabled>
+								<duration>23642</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>824</start>
+								<end>24466</end>
+								<in>0</in>
+								<out>23642</out>
+								<file id="file-7" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-15</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-16</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+						<track currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+							<clipitem id="clipitem-16" premiereChannelType="stereo">
+								<masterclipid>masterclip-7</masterclipid>
+								<name>Most_Epic_Dark_Powerful_Music__THE_MAD_KING__by__RokNardin</name>
+								<enabled>TRUE</enabled>
+								<duration>23642</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>824</start>
+								<end>24466</end>
+								<in>0</in>
+								<out>23642</out>
+								<file id="file-7" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-15</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-16</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+					</audio>
+				</media>
+				<timecode>
+					<rate>
+						<timebase>60</timebase>
+						<ntsc>FALSE</ntsc>
+					</rate>
+					<string>00:00:00:00</string>
+					<frame>0</frame>
+				</timecode>
+			</sequence>
+		</children>
+	</project>
+</xmeml>
